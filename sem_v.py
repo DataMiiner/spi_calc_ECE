@@ -9,7 +9,7 @@ st.set_page_config(
 dt={"A+":10,"A":9,"B+":8,"B":7,"C+":6,"C":5,"IF":0,"FF":0}
 #heading
 st.title("SPI CALCULATOR FOR ECE Vth SEM")
-st.text("Nirma university")
+st.text("By DATAMIINER")
 st.title("  ")
 st.title("  ")
 col1,col2=st.columns([1,1])
