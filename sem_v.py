@@ -5,6 +5,7 @@ st.set_page_config(
   page_icon='🔣'
  
 )
+#-----------------data miiner------------------------
 #data
 dt={"A+":10,"A":9,"B+":8,"B":7,"C+":6,"C":5,"IF":0,"FF":0}
 #heading
